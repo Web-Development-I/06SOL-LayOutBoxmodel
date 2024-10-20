@@ -1,5 +1,11 @@
 main {
-  margin:0 auto;
+  /* Flexible width */
   width: 80%;
-  max-width: 838px;
+
+  /* Maximum width for readability */
+  max-width: 840px;
+
+  /* Centers the content */
+  margin-left: auto;
+  margin-right: auto;
 }

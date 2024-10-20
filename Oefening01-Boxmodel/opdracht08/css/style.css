@@ -15,5 +15,9 @@ span:nth-of-type(2) {
 }
 
 span {
+  /* Het eerste span-element zal de volledige breedte 
+  van zijn parent-element innemen. 
+  Het tweede zal een breedte van 100px hebben.
+  */
   display: block;
 }
